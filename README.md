@@ -2,16 +2,21 @@
 ![logo](https://github.com/avinash16singh/avinash16singh/blob/main/logo2.png)
 <h1 align="center">Hi 👋, I'm Avinash Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avinash16singh&label=Profile%20views&color=0e75b6&style=flat" alt="avinash16singh" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avinash16singh" alt="avinash16singh" /></a> </p>
+
+- 📝 I regularly write articles on [https://instantblog16.blogspot.com/2024/04/my-first-article-book-review.html](https://instantblog16.blogspot.com/2024/04/my-first-article-book-review.html)
 
 - 📫 How to reach me **avi2001singh@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/man_with_no__mind" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="man_with_no__mind" height="30" width="40" /></a>
-<a href="www.linkedin.com/in/avinashsingh16" target="blank"><img align="center" src="www.linkedin.com/in/avinashsingh16" alt="https://www.linkedin.com/in/avinashsingh16/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/avinash16singh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/avinash16singh/" height="30" width="40" /></a>
+<a href="https://twitter.com/man_with_no__mi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="man_with_no__mi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/avinashsingh16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avinashsingh16" height="30" width="40" /></a>
+<a href="https://instagram.com/avi_nash___16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="avi_nash___16" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/avinash16singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="avinash16singh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
